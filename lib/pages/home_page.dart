@@ -4,9 +4,9 @@ import 'package:discover_your_home/consts.dart';
 import 'package:discover_your_home/models/planets.dart';
 import 'package:discover_your_home/pages/detail_page.dart';
 import 'package:discover_your_home/widgets/news_item.dart';
+import 'package:discover_your_home/widgets/category_item.dart';
 import 'package:discover_your_home/widgets/planet_item.dart';
 import 'package:flutter/material.dart';
-import 'package:discover_your_home/widgets/category_item.dart';
 
 class HomePage extends StatefulWidget {
   const HomePage({super.key});
@@ -46,15 +46,9 @@ class _HomePageState extends State<HomePage> {
   Widget build(BuildContext context) {
     Size size = MediaQuery.of(context).size;
     return Scaffold(
+      backgroundColor: black,
       body: Stack(
         children: [
-          // Image.asset(
-          //   'assets/images/background.jpg',
-
-          //   width: size.width,
-          //   height: size.height,
-          //   fit: BoxFit.cover,
-          // ),
           Container(
               width: size.width,
               height: size.height,

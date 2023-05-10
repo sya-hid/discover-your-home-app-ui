@@ -20,7 +20,6 @@ class _DetailPageState extends State<DetailPage> {
     Size size = MediaQuery.of(context).size;
     PlanetsModel planet = widget.planet;
     return Scaffold(
-      // appBar: AppBar(),
       body: Stack(
         children: [
           Container(

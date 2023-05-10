@@ -1,16 +1,29 @@
 # discover_your_home
 
-A new Flutter project.
+## Support
 
-## Getting Started
+<p>
+<a href="https://sociabuzz.com/syarifhidayatullah2020/tribe" target='_blank'>
+<img src="https://sociabuzz.s3.ap-southeast-1.amazonaws.com//landing-page/img/sociabuzz-logo.png" width="100"></a>
 
-This project is a starting point for a Flutter application.
+<a href="https://www.buymeacoffee.com/syarifhidayat"  target='_blank'>
+<img src="https://media.tenor.com/Is0ELiJnoU0AAAAi/buymeacoffee-button.gif" width="100"></a>
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+## UI/UX
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<a href="https://dribbble.com/shots/18098177-Space-App"  target='_blank'><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/Dribbble_logo.png" width="100"></a>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Youtube
+
+<a href="https://youtu.be/Lo3COfZGJsc" target='_blank'>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/YouTube_Logo_2017.svg/200px-YouTube_Logo_2017.svg.png" width="100"></a>
+
+## Preview
+
+<p align="middle">
+<img src="assets/previews/splash page.png" alt="Splash Page" width="200">
+<img src="assets/previews/home page.png" alt="Home Page" width="200">
+<img src="assets/previews/home page_.png" alt="Home Page" width="200">
+<img src="assets/previews/detail page.png" alt="Detail Page" width="200">
+</p>
