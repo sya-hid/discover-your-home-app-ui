@@ -27,3 +27,4 @@
 <img src="assets/previews/home page_.png" alt="Home Page" width="200">
 <img src="assets/previews/detail page.png" alt="Detail Page" width="200">
 </p>
+<img src="https://visitor-badge.laobi.icu/badge?page_id=sya-hid.discover_your_home_app_ui"/>  
